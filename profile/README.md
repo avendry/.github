@@ -28,7 +28,7 @@ Oferecemos uma gama de serviços na área de desenvolvimento de software, inclui
 ## 📢 Contato
 Caso tenha alguma dúvida ou queira saber mais sobre a **Avendry**, entre em contato:
 - **E-mail**: contato@avendry.com
-- **LinkedIn**: [Avendry](https://www.linkedin.com/company/avendry)
+- **LinkedIn**: [Avendry](https://www.linkedin.com/company/avendry-tech)
 
 Vamos construir o futuro juntos! ✨
 
